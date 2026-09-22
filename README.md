@@ -45,8 +45,3 @@ Extracted using `extract_metrics.py` via `fontTools`:
 ### Prerequisites
 - Python 3.8+
 - `pip` package manager
-
-### 1. Clone the repository
-```bash
-git clone [https://github.com/jqazaer/font-metrics-analyzer.git](https://github.com/jqazaer/font-metrics-analyzer.git)
-cd font-metrics-analyzer
